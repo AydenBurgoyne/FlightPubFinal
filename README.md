@@ -3,7 +3,7 @@
 
 
 Notes about these notes :)\
-This project is the final project for the implementation phase of flightpub. It's got issues due to the testing part of the assignment occuring now, however I've left included the notes on the first semester's submission as it still shows how to set it up.
+This project is the final project for the implementation phase of flightpub. It's got issues due to the testing part of the assignment occuring now, however I've left the included notes from the first semester's submission as it still shows how to set it up.
 
 
 Notes about the Project:\
